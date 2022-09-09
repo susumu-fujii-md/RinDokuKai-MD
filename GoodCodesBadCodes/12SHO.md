@@ -1,3 +1,6 @@
+> ## 読みにくいので、[githubのプレビュー](https://github.com/susumu-fujii-md/RinDokuKai-MD/blob/main/GoodCodesBadCodes/12SHO.md)で閲覧ください。
+>  
+
 # 第１２章 メソッド(関数)
 ## -良きクラスには良きメソッドあり-
 
